@@ -9,7 +9,7 @@ public class GitPrueba {
 		Scanner teclado = new Scanner(System.in);
 		double nota;
 
-		System.out.println("Introduce nota");
+		System.out.println("Introduce nota del alumno");
 		nota = teclado.nextDouble();
 
 		if (nota >= 0 && nota < 5) {
