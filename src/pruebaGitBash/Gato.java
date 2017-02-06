@@ -1,8 +1,13 @@
 package pruebaGitBash;
-
+/**
+ * 
+ * @author Jose Maria
+ *
+ */
 public class Gato {
 
 	int numero_vidas;
+	
 
 	public int getNumero_vidas() {
 		return numero_vidas;
