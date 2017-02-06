@@ -13,7 +13,7 @@ public class GitPrueba {
 		nota = teclado.nextDouble();
 
 		if (nota >= 0 && nota < 5) {
-			System.out.println("Suspenso");
+			System.out.println("Sus");
 		} else if (nota >= 5 && nota < 7) {
 			System.out.println("Aprobado");
 		} else if (nota >= 7 && nota < 9) {
